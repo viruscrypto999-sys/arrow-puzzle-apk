@@ -1,1 +1,6 @@
-{"appId":"com.virus.arrowpuzzle","appName":"Arrow Puzzle","webDir":"www","backgroundColor":"#0b1240"}
+{
+  "appId": "com.virus.arrowgame",
+  "appName": "Virus Arrow Game",
+  "webDir": "www",
+  "backgroundColor": "#0b1240"
+}
